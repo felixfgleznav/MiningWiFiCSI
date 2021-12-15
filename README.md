@@ -1,5 +1,7 @@
 # MiningWiFiCSI
 
+File Type: Matlab Data file
+
 xTR: Training set Data
 tTR: Training set Targets
 xTS: Test set Data
